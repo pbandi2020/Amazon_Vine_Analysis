@@ -10,7 +10,9 @@ This project focused on the US major appliance data reviews.
 
 ## Results:
 * Total Paid Review Vs Unppaid Reviews - The dataframes filtered for Vine == 'Y' & Vine = 'N'
-[PaidVsUnpaid](images/PaidVsUnpaid.PNG)
+
+![PaidVsUnpaid](images/PaidVsUnpaid.PNG)
+
 
 
 
